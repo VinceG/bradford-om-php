@@ -1,5 +1,5 @@
 {
-    "name": "VinceG/bradford-om-php",
+    "name": "vince-g/bradford-om-php",
     "type": "library",
     "description": "PHP Wrapper for the BradFord OM",
     "keywords": ["appraisal", "bradford", "amc", "OM"],
