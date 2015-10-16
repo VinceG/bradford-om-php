@@ -125,3 +125,9 @@ $request->get()->process();
 
 $status = $request->getResult();
 ```
+
+## Tests
+
+```
+phpunit
+```
